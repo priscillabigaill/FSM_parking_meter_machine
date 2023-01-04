@@ -1,4 +1,4 @@
-#  🅿️ arking Meter with Finite State Machine 🚙
+# Parking Meter with Finite State Machine 🚙
 
 In this repository, I built a <b>parking meter system</b> using <b>Finite State Machine</b> and implemented the system using <b>C</b>. 
 
