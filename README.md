@@ -22,7 +22,7 @@ The block diagram of the system is depicted below.
 
 ## State Diagram
 
-This parking meter has 5 states which are <b>Idle</b>, <b>1 Hr</b>, <b> 2 Hrs</b>, <b>3 Hrs</b>, and <b>Print</b>. The <i>Idle</i> state of the parking meter system indicates that the system is not being used and is waiting for a signal from the card reader. The <i>1 Hr</i>, <i>2 Hrs</i>, and <i>3 Hrs</i> states each represents the options which users can choose between. And lastly the <i>Printing</i> state indicates that the parking meter system is printing the receipt.
+There are 5 states in this parking meter system which are <b>Idle</b>, <b>1 Hr</b>, <b> 2 Hrs</b>, <b>3 Hrs</b>, and <b>Print</b>. The <i>Idle</i> state of the parking meter system indicates that the system is not being used and is waiting for a signal from the card reader. The <i>1 Hr</i>, <i>2 Hrs</i>, and <i>3 Hrs</i> states each represents the options which users can choose between. And lastly the <i>Printing</i> state indicates that the parking meter system is printing the receipt.
 
 ![](./images/state.png)
 
