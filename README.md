@@ -51,7 +51,7 @@ Based on the state diagram and the encoding previously explained, we can determi
 
 To figure out how the present state bits, input bits, and next state bits are related, we use multiple Karnaugh maps based on the aforementioned truth table. The Boolean equations are written below the tables.
 
-![](./images/kmap.png)
+![](./images/kmapp.png)
 
 
 
